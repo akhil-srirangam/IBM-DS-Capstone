@@ -20,6 +20,11 @@ in this case?
   - SQL, Pandas, BeautifulSoup, Requests : Data Sourcing, Loading, Webscraping
   - Numpy, Matplotlib, Seaborn, SciPy: Exploratory Data Analysis (EDA)
   - Folium, wget, Dash (html and core components) : Interactive Maps and Interfaces for Higher Level EDA
+  - SciKit-Learn : GridSearchCV, train_test_split, Metrics, ML Models
+      - Continuous:
+          - Linear Regression (Simple and Multiple)
+      - Categorical/Classifier:
+          - SVM, KNN, DecisionTree, Logistic Regression, RegressionTrees, k-means Clustering
 
   ### SQL - IMB DB2
   - Data Definition Language : CREATE, DROP, ALTER, TRUNCATE, COMMENT, RENAME
