@@ -33,6 +33,6 @@ in this case?
   - Data Query Language : SELECT, LIMIT, OFFSET, GROUBY, ORDERBY, BETWEEN, DESC
   - Transaction Control Language : BEGIN TRANSACTION, COMMIT, ROLLBACK
 
-  ### Microsoft Powerpoint
+  ### Microsoft PowerPoint
   - Data Findings Report
   - Summarizing and Displaying Understanding of Study
